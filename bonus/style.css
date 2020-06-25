@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    border: solid 2px rgb(90, 248, 195);
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+li{
+    width: 60px;
+    display: inline-block;
+    padding: 5px;
+    border: solid 0.5px black;
+    border-radius: 5px;
+}
